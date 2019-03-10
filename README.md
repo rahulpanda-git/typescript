@@ -1,2 +1,2 @@
-# typescript
-(1)typescript_basics => This directory contains some basic typescript codes
+# TypeScript
+(1) typescript_basics => This directory contains some basic typescript codes
